@@ -1,0 +1,8 @@
+# BadTosca
+This repository contains the code generation for the BadTosca dataset presented in *ReMatching: Low-Resolution Representations for Scalable Shape Correspondence*.  
+- DOI: https://arxiv.org/abs/2305.09274
+- PDF: https://arxiv.org/abs/2305.09274
+
+## Instructions
+For generating the dataset, the original TOSCA dataset is required.  
+
